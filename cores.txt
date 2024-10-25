@@ -1,0 +1,9 @@
+verde escuro: #006A6A
+
+verde claro: #008D8C
+
+branco gelo (fundo): #F5F5F5
+
+cinza claro: #E9E9E9
+
+cinza medio (botao): #CCCCCC
