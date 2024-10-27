@@ -100,7 +100,7 @@ button:hover{
     align-content: space-around;
 }
 
-@media screen and (max-width: 620px){
+@media screen and (max-width: 375px){
     html {
         font-size: 14px;
     }
